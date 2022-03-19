@@ -5,7 +5,7 @@ I am Fresh Graduate in 2022, From University Fajar of Makassar, Indonesiaa...yea
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="220" />
 
 - ✍ You can find my resume here [Resume](https://drive.google.com/file/d/1HHgm50xVG8HFG7ywFTslA46Ga-hxSDt_/view?usp=sharing)
 - 🌱 I’m currently learning Laravel Expert as Web Programmer
@@ -52,4 +52,4 @@ I am Fresh Graduate in 2022, From University Fajar of Makassar, Indonesiaa...yea
 
 
 
-[resume]: https://drive.google.com/file/d/1HHgm50xVG8HFG7ywFTslA46Ga-hxSDt_/view?usp=sharing
+[Resume](https://drive.google.com/file/d/1HHgm50xVG8HFG7ywFTslA46Ga-hxSDt_/view?usp=sharing)
