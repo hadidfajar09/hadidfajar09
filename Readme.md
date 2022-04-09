@@ -11,7 +11,7 @@ I am Fresh Graduate in 2022, From University Fajar of Makassar, Indonesiaa...yea
 - 🌱 I’m currently learning Laravel Expert as Web Programmer
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: hadidfajar@rocketmail.com
-- ⚡ Fun fact: Stress ngoding cokk
+- ⚡ Fun fact: Stress Kerjaan
 
 <br>
 
