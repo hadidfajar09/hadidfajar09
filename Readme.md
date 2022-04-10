@@ -25,9 +25,7 @@ I am Fresh Graduate in 2022, From University Fajar of Makassar, Indonesiaa...yea
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-php-web-development-flaticons-lineal-color-flat-icons.png"/> </a>
    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-
     <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
-
     <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
     
 </p>
