@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hadiid AKA Zeronine 👩‍💻</h1>
 <br>
 
-I am Fresh Graduate in 2022, From University Fajar of Makassar, Indonesiaa...yeahhh
+I am Fresh Graduate in 2022
 
 <br>
 
