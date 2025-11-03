@@ -10,8 +10,8 @@ I am Fresh Graduate in 2022
 - ✍ You can find my resume here [Resume](https://drive.google.com/file/d/1YxFJv7R4UWSiiaGoPwyjpWKeFyIeKa08/view?usp=sharing)
 - 🌱 I’m currently learning Laravel Expert as Web Programmer
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: hadidfajar@rocketmail.com
-- ⚡ Fun fact: Stress Kerjaan
+- 📫 Reach out to me: fajarnet1999@gmail.com
+- ⚡ Fun fact: Suka nonton
 
 <br>
 
